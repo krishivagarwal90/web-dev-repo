@@ -1,0 +1,58 @@
+/* h1{
+    background-color: brown;
+} */
+#wrapper{
+    /* background: linear-gradient( to right, red, blue); */
+    /* background: linear-gradient( 45deg, red, blue); */
+    /* background: radial-gradient(red, green); */
+    /* height:  400px; */
+    /* background: conic-gradient(red, yellow, green); */
+            /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlh0xz2IFyqw2rS-vba9NyWd1sBovXfN-pwo7gmZtpQA&s=10);
+border: 2px solid black; */
+/* background-repeat: no-repeat; */
+/* background-position: center; */
+/* background-size: contain; */
+
+
+/* border-width: 200px;
+border-style: solid;
+border-color: red; */
+
+border : 20px solid rgb(117, 202, 182);
+
+/* border-left: 20px solid red; */
+/* border-radius: 20px;
+border-bottom-right-radius: 90%; */
+padding: 20px;
+margin: 40px;
+}
+
+.red border{
+    border: 2px solid red;
+}
+
+p{
+   
+    /* padding: 70px;
+    padding-left: 40px; */
+    padding: 20px 10px 5px 1px;
+    padding: 40px 0px 8px ;
+}
+#daisy{
+   
+    margin: auto;
+    text-align: center;
+}
+#mahi{
+   
+    width: 100px;
+    margin: auto;
+
+}
+span
+{
+    padding: 400px;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
